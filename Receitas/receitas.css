@@ -1,0 +1,30 @@
+body{
+	background: linear-gradient(#FEFEFE, #7FFFD4, #ADD8E6, #FDFD96, #FFB6C1, #C8A2C8);
+}
+
+header{
+	text-align: center;
+	background: #ffc2bf
+}
+
+main h2{
+	font-family: 'Dancing Script', cursive;
+	text-align: center;
+	font-size: 50px;
+}
+
+.importante{
+	font-weight: bold;
+}
+
+section{
+    font-size: 20px
+}
+
+a{
+	color: black;
+}
+
+footer{
+	text-align: center;
+}
